@@ -2,7 +2,7 @@ Overview:
 For our final project, we plan to investigate if higher education degrees are beneficial around the world. We plan to gather data from around the world and see if countries with higher college enrollment rates have lower unemployment rates. We will look into unemployment rates from the past 10 years, alongside college degree rates globally. To accomplish our goal, we will combine three datasets that discuss countries' unemployment rates, adults from ages 25 to 64 and their highest education levels, and the gross enrollment ratio for each country.
 Our project outline will have four main components. We will first clean each dataset by removing empty values, and renaming any columns that we deem fit. For example, this could be renaming values that are abbreviated country names, or have their regions, and then changing them to their corresponding country. After cleaning our data, we will then merge these three datasets by country and year. In order to answer our research questions, we will include relevant summary statistics and data visualizations. Overall, our goal is to identify a correlation between higher education rates and unemployment rates to understand if higher education is a smart financial decision for adults.
 
-Team: Sarah: Overview & Research Questions, Sambhavi:, Anthony: Datasets,
+Team: Sarah: Overview & Research Questions, Sambhavi:, Anthony: Datasets, Zoe: Timeline/Project Management
 
 Research or Business Question(s): 
 1. Is there a correlation between higher education rates and lower unemployment rates?
@@ -19,7 +19,24 @@ The final dataset is obtained from the World Bank Group and it measures gross en
 
 We can integrate these datasets to answer our research question of the relationship between education and unemployment rate by using country and year as the common identifiers, to capture the unemployment rates, completed level of education, and the participation in higher education. The first dataset will serve as the dependent variable with unemployment rate, while the second and third dataset have independent variables such as the percentage of adults with tertiary education and the gross tertiary enrollment ratio that can reveal associations between the independent variable and the dependent variable.
 
-Timeline: 
+Timeline
+
+Our team will complete the project in stages, focusing on data acquisition, quality assessment, cleaning, integration, analysis, and documentation. We will divide tasks among all four team members and use GitHub to track our progress and contributions. The timeline may be adjusted based on feedback and data availability.
+
+| Task | Description | Target Completion | Responsible Team Member(s) |
+|---|---|---|---|
+| **1. Project Plan** | Finalize our research questions, datasets, methodology, and team responsibilities. Submit the project plan through GitHub. | October 22 | All Team Members |
+| **2. Data Acquisition & Organization** | Download the IMF, OECD, and World Bank datasets, verify their integrity, review licensing restrictions, and organize files in the repository. | October 29 | Anthony |
+| **3. Initial Data Quality Assessment** | Evaluate the datasets for accuracy, completeness, timeliness, and consistency. Identify missing values, duplicates, and differences in country and year coverage. | November 3 | Sambhavi |
+| **4. Data Cleaning** | Address missing values, standardize country names and year formats, remove duplicates, and document cleaning decisions. | November 7 | Sarah |
+| **5. Data Integration** | Merge the cleaned datasets by country and year, identify unmatched records, and document the integration process. | November 11 | Zoe |
+| **6. Post-Integration Quality Assessment** | Evaluate the merged dataset for accuracy, completeness, timeliness, and consistency to verify that the integration was successful. | November 14 | Sambhavi |
+| **7. Data Analysis & Visualization** | Calculate summary statistics, examine correlations between higher education and unemployment, identify outliers, and create visualizations comparing countries and trends over time. | November 18 | Sarah, Anthony |
+| **8. Workflow Automation & Reproducibility** | Develop separate scripts connected by an automated workflow. Document software dependencies and test that the project runs from data acquisition through analysis. | November 21 | Zoe, Anthony |
+| **9. Metadata & Documentation** | Create a data dictionary, machine-readable metadata, and documentation covering data sources, licensing, file organization, and reproducibility. | November 24 | Sambhavi, Zoe |
+| **10. Final Report & Submission** | Complete the README with our methodology, findings, challenges, and conclusions. Review the project requirements, verify contributions, and create the final GitHub release. | November 30 | All Team Members |
+
+If we find that the datasets do not have enough overlapping countries or years, we will adjust the scope of our analysis. We will also revise our timeline based on project progress and feedback from the interim status report.
 
 Constraints:
 
