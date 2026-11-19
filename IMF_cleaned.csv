@@ -1,0 +1,121 @@
+country_standardized,country_original,country_match_status,is_aggregate,Indicator,Frequency,Scale,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026
+Seychelles,Seychelles,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.715,3.528,2.966,4.311,1.209,0.966,2.934,2.593,2.593,2.593
+Tunisia,Tunisia,matched_world_bank_name,false,Unemployment rate,Annual,Units,15.513,15.53,14.889,17.4,16.2,15.2,16.4,16.0,15.2,
+Sudan,Sudan,matched_world_bank_name,false,Unemployment rate,Annual,Units,19.6,19.5,22.1,26.83,28.328,32.137,49.4,60.201,61.209,59.546
+Fiji,"Fiji, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,4.5,4.5,4.5,13.351,9.0,6.5,6.5,5.7,5.0,5.0
+Belarus,"Belarus, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,5.684,4.825,4.191,4.082,3.893,3.58,3.455,3.036,2.549,2.5
+Azerbaijan,"Azerbaijan, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,4.961,4.944,5.004,7.244,6.039,5.646,5.456,5.387,5.327,5.267
+Armenia,"Armenia, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,17.8,19.0,18.3,18.2,15.5,13.5,12.4,13.4,12.8,12.8
+Kazakhstan,"Kazakhstan, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,4.9,4.85,4.8,4.925,4.9,4.875,4.725,4.65,4.6,4.561
+Albania,Albania,matched_world_bank_name,false,Unemployment rate,Annual,Units,13.7,12.3,11.47,11.675,11.5,10.8,9.5,8.8,8.7,8.7
+Georgia,Georgia,matched_world_bank_name,false,Unemployment rate,Annual,Units,21.6,19.2,17.6,18.5,20.6,17.3,16.4,13.9,13.9,13.9
+Kyrgyz Republic,Kyrgyz Republic,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.891,6.011,5.09,4.904,5.463,5.648,3.983,3.983,3.983,3.983
+Bulgaria,Bulgaria,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.23,5.273,4.275,5.207,5.249,4.206,4.395,4.234,3.586,3.4
+Moldova,"Moldova, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,4.125,3.05,5.119,3.825,3.251,3.109,4.593,3.955,3.802,3.75
+Russian Federation,Russian Federation,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.2,4.8,4.6,5.767,4.833,3.95,3.167,2.508,2.233,2.204
+China,"China, People's Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,5.0,4.933,5.15,5.617,5.117,5.583,5.217,5.117,5.1,5.1
+Uzbekistan,"Uzbekistan, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,5.83,9.347,8.976,10.531,9.625,8.861,6.808,5.539,4.751,4.251
+Czechia,Czech Republic,matched_world_bank_name,false,Unemployment rate,Annual,Units,2.89,2.178,1.959,2.512,2.738,2.165,2.578,2.599,2.786,3.0
+Ukraine,Ukraine,matched_world_bank_name,false,Unemployment rate,Annual,Units,9.51,8.8,8.235,9.518,9.881,24.528,19.072,13.1,11.573,10.188
+Serbia,"Serbia, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,14.499,13.679,11.267,9.712,11.107,9.513,9.428,8.575,8.672,8.634
+Estonia,"Estonia, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,5.763,5.371,4.448,6.806,6.177,5.571,6.376,7.501,7.441,6.848
+Slovak Republic,Slovak Republic,matched_world_bank_name,false,Unemployment rate,Annual,Units,8.083,6.508,5.717,6.658,6.825,6.15,5.85,5.342,5.425,5.769
+Latvia,"Latvia, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,8.715,7.415,6.311,8.099,7.557,6.851,6.506,6.929,6.935,6.656
+Hungary,Hungary,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.05,3.575,3.3,4.125,4.05,3.6,4.075,4.475,4.4,4.5
+Croatia,"Croatia, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,12.433,9.858,7.758,9.0,8.092,6.783,6.217,5.333,4.5,4.5
+Lithuania,"Lithuania, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,7.073,6.146,6.254,8.488,7.113,5.95,6.875,7.133,6.908,6.8
+Mongolia,Mongolia,matched_world_bank_name,false,Unemployment rate,Annual,Units,8.8,7.8,9.9,6.7,8.3,6.4,5.3,5.9,5.31,5.0
+Bosnia and Herzegovina,Bosnia and Herzegovina,matched_world_bank_name,false,Unemployment rate,Annual,Units,20.5,18.4,15.7,15.9,17.355,15.386,13.2,12.7,12.2,12.2
+North Macedonia,"North Macedonia, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,22.275,20.6,17.15,16.15,15.425,14.375,13.05,12.4,11.5,11.5
+Slovenia,"Slovenia, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,6.595,5.127,4.448,5.0,4.755,4.015,3.654,3.712,3.86,3.9
+Kosovo,"Kosovo, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,30.475,29.5,25.65,25.95,20.75,12.575,10.875,10.8,,
+Romania,Romania,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.092,5.25,4.892,6.075,5.608,5.625,5.567,5.433,6.117,6.5
+Poland,"Poland, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,4.888,3.846,3.279,3.163,3.373,2.874,2.82,2.884,3.135,3.203
+Advanced Economies,Advanced Economies,not_in_world_bank_reference,true,Unemployment rate,Annual,Units,5.678,5.128,4.821,6.611,5.62,4.505,4.439,4.576,4.721,4.717
+United States,United States,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.358,3.892,3.675,8.1,5.35,3.65,3.625,4.025,4.279,4.164
+United Kingdom,United Kingdom,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.425,4.075,3.825,4.625,4.55,3.8,4.05,4.3,4.875,5.275
+G7,G7,not_in_world_bank_reference,true,Unemployment rate,Annual,Units,4.972,4.525,4.263,6.497,5.217,4.085,4.071,4.285,4.507,4.53
+Austria,Austria,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.942,5.217,4.808,5.475,6.167,4.742,5.1,5.175,5.692,5.726
+Belgium,Belgium,matched_world_bank_name,false,Unemployment rate,Annual,Units,7.117,5.975,5.375,5.55,6.283,5.558,5.533,5.7,6.175,6.2
+Other Advanced Economies (Advanced Economies excluding G7 and Euro Area countries),Other Advanced Economies (Advanced Economies excluding G7 and Euro Area countries),not_in_world_bank_reference,true,Unemployment rate,Annual,Units,4.152,3.972,3.927,4.617,4.313,3.426,3.32,3.47,3.614,3.68
+Germany,Germany,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.525,3.192,2.95,3.625,3.6,3.142,3.083,3.392,3.767,3.966
+Denmark,Denmark,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.2,3.85,3.658,4.658,3.592,2.508,2.775,2.892,2.9,3.0
+France,France,matched_world_bank_name,false,Unemployment rate,Annual,Units,9.408,9.017,8.433,8.042,7.875,7.308,7.342,7.442,7.717,8.415
+San Marino,"San Marino, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,8.095,8.009,7.663,7.342,6.442,5.142,4.22,4.413,4.463,4.443
+Luxembourg,Luxembourg,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.843,5.111,5.407,6.359,5.739,4.808,5.227,5.743,5.953,6.382
+Italy,Italy,matched_world_bank_name,false,Unemployment rate,Annual,Units,11.3,10.608,9.908,9.342,9.55,8.1,7.683,6.558,6.05,5.612
+Norway,Norway,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.216,3.854,3.728,4.595,4.41,3.252,3.595,4.013,4.483,4.6
+Sweden,Sweden,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.783,6.433,6.908,8.483,8.892,7.483,7.667,8.35,8.867,8.52
+Netherlands,"Netherlands, The",matched_world_bank_name,false,Unemployment rate,Annual,Units,5.873,4.881,4.436,4.851,4.226,3.537,3.553,3.659,3.876,4.017
+Liechtenstein,"Liechtenstein, Principality of",matched_world_bank_name,false,Unemployment rate,Annual,Units,1.9,1.658,1.542,1.892,1.65,1.318,1.376,1.649,1.95,2.3
+Canada,Canada,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.417,5.833,5.683,9.742,7.483,5.25,5.392,6.367,6.858,6.545
+Switzerland,Switzerland,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.088,2.547,2.306,3.17,2.993,2.166,1.983,2.386,2.838,3.009
+Finland,Finland,matched_world_bank_name,false,Unemployment rate,Annual,Units,8.825,7.425,6.742,7.75,7.667,6.75,7.225,8.392,9.675,10.178
+Andorra,"Andorra, Principality of",matched_world_bank_name,false,Unemployment rate,Annual,Units,2.35,1.775,2.075,2.925,3.275,2.1,1.525,1.475,1.25,1.5
+Euro Area (EA),Euro Area (EA),not_in_world_bank_reference,true,Unemployment rate,Annual,Units,9.117,8.2,7.55,7.933,7.733,6.742,6.542,6.35,6.333,6.327
+Japan,Japan,matched_world_bank_name,false,Unemployment rate,Annual,Units,2.817,2.433,2.358,2.8,2.817,2.592,2.567,2.533,2.533,2.533
+Iceland,Iceland,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.3,3.133,3.9,6.267,5.842,3.592,3.375,3.367,4.342,4.818
+Ireland,Ireland,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.75,5.817,5.0,5.842,6.267,4.45,4.308,4.3,4.658,4.996
+Greece,Greece,matched_world_bank_name,false,Unemployment rate,Annual,Units,21.45,19.3,17.325,16.325,14.775,12.425,11.075,10.1,8.862,7.999
+Malta,Malta,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.008,3.958,4.083,4.85,3.767,3.475,3.483,3.2,3.0,3.0
+Portugal,Portugal,matched_world_bank_name,false,Unemployment rate,Annual,Units,9.217,7.183,6.658,7.108,6.733,6.175,6.567,6.45,6.042,5.913
+Spain,Spain,matched_world_bank_name,false,Unemployment rate,Annual,Units,17.225,15.255,14.105,15.533,14.92,13.035,12.185,11.345,10.508,9.802
+New Zealand,New Zealand,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.75,4.325,4.125,4.6,3.775,3.325,3.775,4.775,5.275,5.445
+Australia,Australia,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.6,5.283,5.175,6.467,5.117,3.708,3.7,4.008,4.192,4.426
+Turkiye,"Türkiye, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,10.9,10.9,13.7,13.1,12.0,10.4,9.4,8.7,8.3,8.157
+South Africa,South Africa,matched_world_bank_name,false,Unemployment rate,Annual,Units,27.45,27.125,28.7,29.175,34.3,33.5,32.375,32.6,32.35,33.15
+Brazil,Brazil,matched_world_bank_name,false,Unemployment rate,Annual,Units,12.85,12.375,11.975,13.775,13.225,9.25,7.975,6.925,5.95,6.222
+Bolivia,Bolivia,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.085,4.913,5.012,8.336,6.937,4.741,4.051,3.695,3.3,4.5
+Argentina,Argentina,matched_world_bank_name,false,Unemployment rate,Annual,Units,8.35,9.2,9.825,11.55,8.75,6.825,6.125,7.15,7.4,7.625
+Chile,Chile,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.965,7.377,7.223,10.77,8.862,7.878,8.681,8.462,8.545,9.468
+Costa Rica,Costa Rica,matched_world_bank_name,false,Unemployment rate,Annual,Units,9.293,11.951,12.417,19.98,13.68,11.669,7.297,6.878,6.326,7.0
+Ecuador,Ecuador,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.62,3.69,3.84,5.346,4.68,3.8,3.57,3.38,3.1,3.1
+Colombia,Colombia,matched_world_bank_name,false,Unemployment rate,Annual,Units,8.9,10.0,9.9,13.9,11.1,10.3,10.0,9.1,8.0,9.0
+Dominican Republic,Dominican Republic,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.509,5.656,6.167,5.829,7.384,5.293,5.305,5.136,5.3,5.3
+El Salvador,El Salvador,matched_world_bank_name,false,Unemployment rate,Annual,Units,7.195,6.496,6.486,7.045,6.336,5.05,5.216,4.654,4.203,4.319
+Honduras,Honduras,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.681,5.667,5.699,10.912,8.569,8.941,6.4,5.2,4.923,7.1
+Paraguay,Paraguay,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.15,6.125,6.475,7.55,7.45,6.825,5.925,5.75,4.75,4.7
+Panama,Panama,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.13,5.956,7.07,18.548,11.293,9.917,7.431,9.526,10.35,9.112
+Mexico,Mexico,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.423,3.323,3.49,4.408,4.136,3.271,2.796,2.67,2.646,2.777
+Nicaragua,Nicaragua,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.27,5.25,4.928,4.815,3.672,3.525,3.362,3.056,2.695,3.1
+Uruguay,Uruguay,matched_world_bank_name,false,Unemployment rate,Annual,Units,7.925,8.367,8.925,10.35,9.375,7.867,8.325,8.183,7.458,7.458
+Peru,Peru,matched_world_bank_name,false,Unemployment rate,Annual,Units,6.886,6.653,6.581,13.036,10.732,7.751,6.784,6.448,5.901,5.0
+"Venezuela, RB","Venezuela, República Bolivariana de",matched_world_bank_name,false,Unemployment rate,Annual,Units,5.045,5.468,,,,,,,,
+Aruba,"Aruba, Kingdom of the Netherlands",matched_world_bank_name,false,Unemployment rate,Annual,Units,8.9,7.3,5.2,8.6,8.8,4.3,4.0,4.27,4.039,3.903
+"Bahamas, The","Bahamas, The",matched_world_bank_name,false,Unemployment rate,Annual,Units,10.1,10.35,10.1,25.883,17.398,10.68,10.174,8.404,9.4,9.3
+Barbados,Barbados,matched_world_bank_name,false,Unemployment rate,Annual,Units,9.95,10.05,10.088,15.724,14.1,8.15,8.475,7.233,7.15,7.343
+Belize,Belize,matched_world_bank_name,false,Unemployment rate,Annual,Units,9.328,9.377,9.041,13.75,10.254,6.099,3.346,2.587,2.0,2.0
+Jamaica,Jamaica,matched_world_bank_name,false,Unemployment rate,Annual,Units,11.65,9.125,7.7,10.2,8.375,6.267,4.4,4.175,3.4,
+Puerto Rico,Puerto Rico,not_in_world_bank_reference,false,Unemployment rate,Annual,Units,10.9,9.2,8.3,8.8,8.0,6.0,5.9,5.6,5.6,5.429
+Bahrain,"Bahrain, Kingdom of",matched_world_bank_name,false,Unemployment rate,Annual,Units,4.1,4.3,4.7,5.9,5.9,5.4,6.3,6.2,5.6,
+Trinidad and Tobago,Trinidad and Tobago,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.829,3.924,4.253,5.647,5.361,4.924,3.981,4.944,4.462,4.413
+Suriname,Suriname,matched_world_bank_name,false,Unemployment rate,Annual,Units,7.0,9.0,8.797,11.147,11.2,10.9,10.6,10.3,9.5,9.0
+"Iran, Islamic Rep.","Iran, Islamic Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,12.075,12.125,10.65,9.6,9.175,9.0,8.075,7.55,7.525,9.2
+Cyprus,Cyprus,matched_world_bank_name,false,Unemployment rate,Annual,Units,11.05,8.35,7.125,7.55,7.15,6.275,5.741,4.792,4.354,3.975
+Jordan,Jordan,matched_world_bank_name,false,Unemployment rate,Annual,Units,18.3,18.6,19.075,22.7,24.075,22.85,21.975,21.4,21.3,
+Israel,Israel,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.225,3.983,3.833,4.292,4.967,3.775,3.442,2.992,2.992,3.1
+Lebanon,Lebanon,matched_world_bank_name,false,Unemployment rate,Annual,Units,10.251,10.745,11.301,13.284,12.669,11.6,11.543,,,
+"Egypt, Arab Rep.","Egypt, Arab Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,12.245,10.932,8.612,8.296,7.292,7.324,7.185,7.374,7.331,
+Saudi Arabia,Saudi Arabia,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.9,6.025,5.625,7.65,6.125,4.875,4.0,3.5,3.225,
+West Bank and Gaza,West Bank and Gaza,matched_world_bank_name,false,Unemployment rate,Annual,Units,25.45,26.25,25.35,25.925,26.392,24.42,,,,
+Bhutan,Bhutan,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.138,3.4,2.72,5.03,4.8,5.9,3.5,,,
+Taiwan Province of China,Taiwan Province of China,not_in_world_bank_reference,false,Unemployment rate,Annual,Units,3.76,3.71,3.73,3.85,3.95,3.67,3.48,3.39,3.35,3.35
+Brunei Darussalam,Brunei Darussalam,matched_world_bank_name,false,Unemployment rate,Annual,Units,9.0,7.7,6.7,7.3,4.9,5.2,5.2,4.8,4.748,4.748
+"Hong Kong SAR, China","Hong Kong Special Administrative Region, People's Republic of China",matched_world_bank_name,false,Unemployment rate,Annual,Units,3.15,2.808,2.908,5.525,5.408,4.35,2.975,3.008,3.558,3.789
+Sri Lanka,Sri Lanka,matched_world_bank_name,false,Unemployment rate,Annual,Units,4.2,4.4,4.8,5.5,5.1,4.7,4.7,4.4,3.9,3.9
+Indonesia,Indonesia,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.5,5.34,5.28,7.07,6.49,5.86,5.32,4.91,4.85,4.7
+India,India,matched_world_bank_name,false,Unemployment rate,Annual,Units,,8.901,7.484,8.662,7.365,5.3,4.939,5.032,5.032,5.032
+"Korea, Rep.","Korea, Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,3.683,3.833,3.783,3.955,3.675,2.883,2.708,2.8,2.792,2.792
+"Macao SAR, China","Macao Special Administrative Region, People's Republic of China",matched_world_bank_name,false,Unemployment rate,Annual,Units,1.975,1.8,1.725,2.55,2.95,3.675,2.65,1.8,1.7,1.7
+Malaysia,Malaysia,matched_world_bank_name,false,Unemployment rate,Annual,Units,3.425,3.325,3.275,4.525,4.65,3.825,3.425,3.2,3.0,3.0
+Pakistan,Pakistan,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.833,5.8,6.9,7.681,6.5,6.0,7.5,7.3,7.1,6.9
+Philippines,Philippines,matched_world_bank_name,false,Unemployment rate,Annual,Units,5.725,5.325,5.1,10.4,7.792,5.4,4.358,3.817,4.208,5.418
+Thailand,Thailand,matched_world_bank_name,false,Unemployment rate,Annual,Units,1.2,1.1,1.0,1.7,1.9,1.3,1.0,1.0,1.0,1.0
+Singapore,Singapore,matched_world_bank_name,false,Unemployment rate,Annual,Units,2.175,2.1,2.25,3.0,2.65,2.1,1.925,1.95,1.975,2.075
+Viet Nam,Vietnam,matched_world_bank_name,false,Unemployment rate,Annual,Units,2.24,2.19,2.17,2.48,3.2,2.32,2.3,2.2,2.2,2.1
+Algeria,Algeria,matched_world_bank_name,false,Unemployment rate,Annual,Units,11.709,11.731,11.383,,,,,,,
+Cabo Verde,Cabo Verde,matched_world_bank_name,false,Unemployment rate,Annual,Units,12.2,12.2,8.5,8.5,8.5,8.5,8.5,8.5,8.5,8.5
+Mauritius,Mauritius,matched_world_bank_name,false,Unemployment rate,Annual,Units,7.1,6.9,6.7,9.2,9.1,6.803,6.106,5.7,5.7,5.966
+Sao Tome and Principe,"São Tomé and Príncipe, Democratic Republic of",matched_world_bank_name,false,Unemployment rate,Annual,Units,13.472,,,,,,,,,
+Nigeria,Nigeria,matched_world_bank_name,false,Unemployment rate,Annual,Units,17.462,22.562,,,,,,,,
+Morocco,Morocco,matched_world_bank_name,false,Unemployment rate,Annual,Units,10.2,9.5,9.2,11.9,12.3,11.8,13.0,13.3,13.0,12.203

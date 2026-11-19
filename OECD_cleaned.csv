@@ -1,0 +1,52 @@
+country_standardized,country_original,country_match_status,is_aggregate,Below upper secondary education,Upper secondary or post-secondary non-tertiary education,Tertiary education
+Argentina,Argentina,matched_world_bank_name,false,32.17717361,43.56904221,23.67523003
+Australia,Australia,matched_world_bank_name,false,11.9285370548604,33.6877406159769,54.3837223291627
+Austria,Austria,matched_world_bank_name,false,13.207022439668,49.1851340853173,37.6078434750146
+Belgium,Belgium,matched_world_bank_name,false,15.0697192387413,37.4766021341874,47.4536786270713
+Brazil,Brazil,matched_world_bank_name,false,38.0590079603842,39.6491239972162,22.2918680423996
+Bulgaria,Bulgaria,matched_world_bank_name,false,13.028243437137,51.2991873762648,35.6725691865982
+Canada,Canada,matched_world_bank_name,false,6.57158580207282,29.4918829679905,63.9365312299367
+Chile,Chile,matched_world_bank_name,false,21.4713693692539,41.9578518616025,36.5707787691436
+China,China (People’s Republic of),matched_world_bank_name,false,63.37412643,18.09055901,18.53531647
+Colombia,Colombia,matched_world_bank_name,false,34.600734527925,35.9092799451196,29.4899855269555
+Costa Rica,Costa Rica,matched_world_bank_name,false,50.3376844728167,21.4271804488271,28.2351350783561
+Croatia,Croatia,matched_world_bank_name,false,9.38114130885113,59.5923319976108,31.026526693538
+Czechia,Czechia,matched_world_bank_name,false,5.5888178662675,65.6842913039579,28.7268908297745
+Denmark,Denmark,matched_world_bank_name,false,15.7633495751492,38.2446309177045,45.9920195071463
+Estonia,Estonia,matched_world_bank_name,false,10.4462451352694,47.4922105419602,42.0615443227704
+European Union (25 countries),European Union (25 countries),not_in_world_bank_reference,true,15.164511718714037,45.60153207572583,39.23395620556013
+Finland,Finland,matched_world_bank_name,false,10.8251057827927,46.4386459802539,42.7362482369535
+France,France,matched_world_bank_name,false,15.3273093869016,39.8590097826899,44.8136808304085
+G20,G20,not_in_world_bank_reference,true,,,
+Germany,Germany,matched_world_bank_name,false,14.0507977607769,50.4556845485786,35.4935176906446
+Greece,Greece,matched_world_bank_name,false,18.2425767889728,46.8286320039327,34.9287912070945
+Hungary,Hungary,matched_world_bank_name,false,11.840828554633,56.5582891269124,31.6008823184546
+Iceland,Iceland,matched_world_bank_name,false,20.43259621,35.10569,44.46171188
+India,India,matched_world_bank_name,false,75.22858429,10.52511024,14.24630547
+Indonesia,Indonesia,matched_world_bank_name,false,57.26337814,29.67902946,13.05759525
+Ireland,Ireland,matched_world_bank_name,false,9.40608072180684,31.8648411039088,58.7290781742844
+Israel,Israel,matched_world_bank_name,false,13.1001771865975,35.6773340043775,51.2224888090251
+Italy,Italy,matched_world_bank_name,false,33.0232386823766,44.7073396489483,22.2694216686751
+Japan,Japan,matched_world_bank_name,false,,42.0748804222332,57.9251195777668
+"Korea, Rep.",Korea,matched_world_bank_name,false,5.55608084536156,36.2568428053953,58.1870763492431
+Latvia,Latvia,matched_world_bank_name,false,11.0775533152821,48.2104989982378,40.7119476864801
+Lithuania,Lithuania,matched_world_bank_name,false,5.98460245302053,44.1044655694235,49.910931977556
+Luxembourg,Luxembourg,matched_world_bank_name,false,17.6647590543162,27.5666069640865,54.7686339815973
+Mexico,Mexico,matched_world_bank_name,false,53.3391237252576,24.444637639431,22.2162386353114
+Netherlands,Netherlands,matched_world_bank_name,false,18.3832393861393,35.5435361072193,46.0732245066415
+New Zealand,New Zealand,matched_world_bank_name,false,16.7497875798884,39.0520521629909,44.1981602571207
+Norway,Norway,matched_world_bank_name,false,16.0576498181447,33.7265032801931,50.2158469016622
+OECD,OECD,not_in_world_bank_reference,true,17.907915319622735,39.922453641721766,42.66687066
+Peru,Peru,matched_world_bank_name,false,31.58303373014672,33.26482869589416,4.948145699844485
+Poland,Poland,matched_world_bank_name,false,5.08101095076532,54.9345373855112,39.9844516637235
+Portugal,Portugal,matched_world_bank_name,false,35.7025822159572,31.5923146968783,32.7051030871645
+Romania,Romania,matched_world_bank_name,false,24.602393994993,55.9463341570238,19.4512718479831
+Slovak Republic,Slovak Republic,matched_world_bank_name,false,6.11349706225278,64.0780689482714,29.8084339894758
+Slovenia,Slovenia,matched_world_bank_name,false,10.7082066880933,54.2006048264596,35.0911884854471
+South Africa,South Africa,matched_world_bank_name,false,48.682972405236,42.8343690188409,8.48265857592314
+Spain,Spain,matched_world_bank_name,false,34.574476513052,23.011722378641,42.413801108307
+Sweden,Sweden,matched_world_bank_name,false,14.0199946546352,35.1627813091658,50.817224036199
+Switzerland,Switzerland,matched_world_bank_name,false,13.904692307898,39.8584904351917,46.2368172569103
+Turkiye,Türkiye,matched_world_bank_name,false,48.2405232370688,23.6423932568744,28.1170835060568
+United Kingdom,United Kingdom,matched_world_bank_name,false,16.5571187508299,28.6821297058657,54.7534625973826
+United States,United States,matched_world_bank_name,false,7.73232665120451,40.0765350492704,52.1911382995251
